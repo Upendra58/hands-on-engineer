@@ -1,24 +1,9 @@
-# hands-on-engineer
+# 👨‍💻 Hands-On Engineer
 
-This repository contains **hands-on projects and exercises** as I train to become an **AI / SDE / SDET / Networking Automation Developer**.
+This repository contains hands-on projects in AI, SDE, SDET, and Networking Automation.
 
-## Topics Covered
-- Python basics & automation scripts  
-- Network automation tools  
-- API testing & automation (SDET)  
-- AI / ML mini-projects  
-- DevOps / Docker / CI-CD (future weeks)
+## Day 1
+- Python automation script (hello_automation.py)
 
-## Structure
-├── day1_python_basics  
-│   └── hello_automation.py  
-├── day2_network_automation  
-├── ...  
-└── README.md
-
-## How to Run
-Each folder (e.g. day2, day3) will have a `README.md` and Python scripts.  
-Example:
-```bash
-cd day1_python_basics
-python hello_automation.py
+## About Me
+I'm Upendra, currently at Wipro (Nokia R&D). Learning AI, automation, and development by building real projects.
